@@ -3,11 +3,6 @@
 ## Description
 はじめてVJをした時にTouchDesignerで作った12個の映像素材です
 
-***デモ***
-
-![デモ](https://image-url.gif)
-
-
 ## Version
 TouchDesigner Commercial 64-Bit Build 2019.15840
 https://www.derivative.ca/099/Downloads/
@@ -28,6 +23,7 @@ $ ~do anything~
 ## その他
 好きに使ってください！
 TouchDesignerの初学習に役立ちますように。
+任意ですがこの素材を使って何か作ったりVJしたりする時教えてくれたら嬉しいです。
 
 
 ## 作者
