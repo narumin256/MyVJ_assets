@@ -1,0 +1,1 @@
+# MyVJ_assets
